@@ -155,6 +155,10 @@ const add=(a1,a2)=>a1+a2;
 
 //Difference between arrow and regular functions
 
-//hello
+// 1.)No arguments object in arrow functions
+// A normal function has an arguments object which 
+// you can access in the function:
+// https://www.freecodecamp.org/news/the-difference-between-arrow-functions-and-normal-functions/
+
 
 
