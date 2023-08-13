@@ -7,7 +7,7 @@ const calc=(n)=>{
     return sum;
 }
 //Memoization is an optimization technique that can be used to reduce time consunming
-//calculations by saving previous input to something called cache and returning the 
+//calculations by saving previous input to something called cache and returning the
 //result from it.
 const memoize=function (fn){
     let cache={};
