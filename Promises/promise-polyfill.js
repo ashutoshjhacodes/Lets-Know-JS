@@ -67,3 +67,4 @@ function myPromise(executor) {
   //resolve reject are private functions passed into executor
   executor(resolve, reject);
 }
+
